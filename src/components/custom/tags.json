@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_custom_tags",
+  "info": {
+    "displayName": "Tags",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "config": {}
+}

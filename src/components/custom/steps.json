@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_custom_steps",
+  "info": {
+    "displayName": "steps",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "url": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
